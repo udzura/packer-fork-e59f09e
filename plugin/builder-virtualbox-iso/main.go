@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/mitchellh/packer/builder/virtualbox/iso"
-	"github.com/mitchellh/packer/packer/plugin"
+	"github.com/udzura/packer-fork-e59f09e/builder/virtualbox/iso"
+	"github.com/udzura/packer-fork-e59f09e/packer/plugin"
 )
 
 func main() {

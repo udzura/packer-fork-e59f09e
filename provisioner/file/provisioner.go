@@ -3,8 +3,8 @@ package file
 import (
 	"errors"
 	"fmt"
-	"github.com/mitchellh/packer/common"
-	"github.com/mitchellh/packer/packer"
+	"github.com/udzura/packer-fork-e59f09e/common"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 	"os"
 )
 

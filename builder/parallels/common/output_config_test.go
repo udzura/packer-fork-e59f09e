@@ -1,7 +1,7 @@
 package common
 
 import (
-	"github.com/mitchellh/packer/common"
+	"github.com/udzura/packer-fork-e59f09e/common"
 	"io/ioutil"
 	"os"
 	"testing"

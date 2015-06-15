@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/mitchellh/goamz/aws"
-	"github.com/mitchellh/packer/packer"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 )
 
 // AMIConfig is for common configuration related to creating AMIs.

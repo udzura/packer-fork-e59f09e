@@ -2,7 +2,7 @@ package plugin
 
 import (
 	"fmt"
-	"github.com/mitchellh/packer/packer"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 	"log"
 	"os"
 	"os/exec"

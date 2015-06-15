@@ -2,7 +2,7 @@ package docker
 
 import (
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/common"
+	"github.com/udzura/packer-fork-e59f09e/common"
 )
 
 type StepProvision struct{}

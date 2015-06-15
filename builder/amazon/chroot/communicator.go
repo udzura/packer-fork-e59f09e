@@ -3,7 +3,7 @@ package chroot
 import (
 	"bytes"
 	"fmt"
-	"github.com/mitchellh/packer/packer"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 	"io"
 	"io/ioutil"
 	"log"

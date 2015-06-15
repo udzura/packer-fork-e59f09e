@@ -6,7 +6,7 @@ import (
 	"bytes"
 	"code.google.com/p/go.crypto/ssh"
 	"fmt"
-	"github.com/mitchellh/packer/packer"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 	"net"
 	"testing"
 )

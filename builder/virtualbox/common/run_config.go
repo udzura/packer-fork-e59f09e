@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/mitchellh/packer/packer"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 )
 
 type RunConfig struct {

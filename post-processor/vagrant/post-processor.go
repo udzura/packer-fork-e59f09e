@@ -11,8 +11,8 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/mitchellh/packer/common"
-	"github.com/mitchellh/packer/packer"
+	"github.com/udzura/packer-fork-e59f09e/common"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 )
 
 var builtins = map[string]string{

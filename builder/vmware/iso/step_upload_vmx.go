@@ -3,8 +3,8 @@ package iso
 import (
 	"fmt"
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/packer"
-	vmwcommon "github.com/mitchellh/packer/builder/vmware/common"
+	"github.com/udzura/packer-fork-e59f09e/packer"
+	vmwcommon "github.com/udzura/packer-fork-e59f09e/builder/vmware/common"
 	"path/filepath"
 )
 

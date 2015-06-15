@@ -3,8 +3,8 @@ package ovf
 import (
 	"fmt"
 	"github.com/mitchellh/multistep"
-	vboxcommon "github.com/mitchellh/packer/builder/virtualbox/common"
-	"github.com/mitchellh/packer/packer"
+	vboxcommon "github.com/udzura/packer-fork-e59f09e/builder/virtualbox/common"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 )
 
 // This step imports an OVF VM into VirtualBox.

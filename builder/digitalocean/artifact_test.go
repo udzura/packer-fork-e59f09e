@@ -3,7 +3,7 @@ package digitalocean
 import (
 	"testing"
 
-	"github.com/mitchellh/packer/packer"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 )
 
 func TestArtifact_Impl(t *testing.T) {

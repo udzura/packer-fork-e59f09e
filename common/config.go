@@ -3,7 +3,7 @@ package common
 import (
 	"fmt"
 	"github.com/mitchellh/mapstructure"
-	"github.com/mitchellh/packer/packer"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 	"net/url"
 	"os"
 	"path/filepath"

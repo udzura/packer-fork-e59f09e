@@ -10,7 +10,7 @@ package plugin
 import (
 	"errors"
 	"fmt"
-	packrpc "github.com/mitchellh/packer/packer/rpc"
+	packrpc "github.com/udzura/packer-fork-e59f09e/packer/rpc"
 	"io/ioutil"
 	"log"
 	"net"

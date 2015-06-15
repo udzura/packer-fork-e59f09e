@@ -2,7 +2,7 @@ package openstack
 
 import (
 	"fmt"
-	"github.com/mitchellh/packer/packer"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 )
 
 // ImageConfig is for common configuration related to creating Images.

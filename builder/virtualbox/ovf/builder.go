@@ -8,9 +8,9 @@ import (
 	"time"
 
 	"github.com/mitchellh/multistep"
-	vboxcommon "github.com/mitchellh/packer/builder/virtualbox/common"
-	"github.com/mitchellh/packer/common"
-	"github.com/mitchellh/packer/packer"
+	vboxcommon "github.com/udzura/packer-fork-e59f09e/builder/virtualbox/common"
+	"github.com/udzura/packer-fork-e59f09e/common"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 )
 
 // Builder implements packer.Builder and builds the actual VirtualBox

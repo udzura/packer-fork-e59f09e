@@ -5,8 +5,8 @@ import (
 	"os/signal"
 
 	"github.com/mitchellh/cli"
-	"github.com/mitchellh/packer/command"
-	"github.com/mitchellh/packer/packer"
+	"github.com/udzura/packer-fork-e59f09e/command"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 )
 
 // Commands is the mapping of all the available Terraform commands.

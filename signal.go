@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/mitchellh/packer/packer"
-	"github.com/mitchellh/packer/packer/plugin"
+	"github.com/udzura/packer-fork-e59f09e/packer"
+	"github.com/udzura/packer-fork-e59f09e/packer/plugin"
 	"log"
 	"os"
 	"os/signal"

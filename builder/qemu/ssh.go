@@ -5,8 +5,8 @@ import (
 
 	gossh "code.google.com/p/go.crypto/ssh"
 	"github.com/mitchellh/multistep"
-	commonssh "github.com/mitchellh/packer/common/ssh"
-	"github.com/mitchellh/packer/communicator/ssh"
+	commonssh "github.com/udzura/packer-fork-e59f09e/common/ssh"
+	"github.com/udzura/packer-fork-e59f09e/communicator/ssh"
 )
 
 func sshAddress(state multistep.StateBag) (string, error) {

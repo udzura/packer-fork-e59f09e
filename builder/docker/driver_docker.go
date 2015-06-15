@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/mitchellh/packer/packer"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 )
 
 type DockerDriver struct {

@@ -2,9 +2,9 @@ package dockerpush
 
 import (
 	"bytes"
-	"github.com/mitchellh/packer/builder/docker"
-	"github.com/mitchellh/packer/packer"
-	"github.com/mitchellh/packer/post-processor/docker-import"
+	"github.com/udzura/packer-fork-e59f09e/builder/docker"
+	"github.com/udzura/packer-fork-e59f09e/packer"
+	"github.com/udzura/packer-fork-e59f09e/post-processor/docker-import"
 	"testing"
 )
 

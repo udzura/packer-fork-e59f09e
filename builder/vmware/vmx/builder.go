@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/mitchellh/multistep"
-	vmwcommon "github.com/mitchellh/packer/builder/vmware/common"
-	"github.com/mitchellh/packer/common"
-	"github.com/mitchellh/packer/packer"
+	vmwcommon "github.com/udzura/packer-fork-e59f09e/builder/vmware/common"
+	"github.com/udzura/packer-fork-e59f09e/common"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 )
 
 // Builder implements packer.Builder and builds the actual VMware

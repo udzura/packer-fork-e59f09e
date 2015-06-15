@@ -2,7 +2,7 @@ package rpc
 
 import (
 	"errors"
-	"github.com/mitchellh/packer/packer"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 	"reflect"
 	"testing"
 )

@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/mitchellh/multistep"
-	vmwcommon "github.com/mitchellh/packer/builder/vmware/common"
-	"github.com/mitchellh/packer/packer"
+	vmwcommon "github.com/udzura/packer-fork-e59f09e/builder/vmware/common"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 )
 
 func testState(t *testing.T) multistep.StateBag {

@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/mitchellh/packer/fix"
+	"github.com/udzura/packer-fork-e59f09e/fix"
 )
 
 type FixCommand struct {

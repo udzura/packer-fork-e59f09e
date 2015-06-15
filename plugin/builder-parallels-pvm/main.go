@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/mitchellh/packer/builder/parallels/pvm"
-	"github.com/mitchellh/packer/packer/plugin"
+	"github.com/udzura/packer-fork-e59f09e/builder/parallels/pvm"
+	"github.com/udzura/packer-fork-e59f09e/packer/plugin"
 )
 
 func main() {

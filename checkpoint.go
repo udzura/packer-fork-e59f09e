@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 
 	"github.com/hashicorp/go-checkpoint"
-	"github.com/mitchellh/packer/command"
+	"github.com/udzura/packer-fork-e59f09e/command"
 )
 
 func init() {

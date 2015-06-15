@@ -1,7 +1,7 @@
 package iso
 
 import (
-	vmwcommon "github.com/mitchellh/packer/builder/vmware/common"
+	vmwcommon "github.com/udzura/packer-fork-e59f09e/builder/vmware/common"
 )
 
 type RemoteDriver interface {

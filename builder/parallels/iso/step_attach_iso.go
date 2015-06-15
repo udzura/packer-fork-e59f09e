@@ -3,8 +3,8 @@ package iso
 import (
 	"fmt"
 	"github.com/mitchellh/multistep"
-	parallelscommon "github.com/mitchellh/packer/builder/parallels/common"
-	"github.com/mitchellh/packer/packer"
+	parallelscommon "github.com/udzura/packer-fork-e59f09e/builder/parallels/common"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 	"log"
 )
 

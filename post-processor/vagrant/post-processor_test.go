@@ -3,7 +3,7 @@ package vagrant
 import (
 	"bytes"
 	"compress/flate"
-	"github.com/mitchellh/packer/packer"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 	"io/ioutil"
 	"os"
 	"strings"

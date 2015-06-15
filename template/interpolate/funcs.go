@@ -9,7 +9,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/mitchellh/packer/common/uuid"
+	"github.com/udzura/packer-fork-e59f09e/common/uuid"
 )
 
 // InitTime is the UTC time when this package was initialized. It is

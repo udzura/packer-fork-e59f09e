@@ -12,9 +12,9 @@ import (
 
 	"github.com/mitchellh/goamz/ec2"
 	"github.com/mitchellh/multistep"
-	awscommon "github.com/mitchellh/packer/builder/amazon/common"
-	"github.com/mitchellh/packer/common"
-	"github.com/mitchellh/packer/packer"
+	awscommon "github.com/udzura/packer-fork-e59f09e/builder/amazon/common"
+	"github.com/udzura/packer-fork-e59f09e/common"
+	"github.com/udzura/packer-fork-e59f09e/packer"
 )
 
 // The unique ID for this builder

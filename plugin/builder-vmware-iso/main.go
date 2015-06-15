@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/mitchellh/packer/builder/vmware/iso"
-	"github.com/mitchellh/packer/packer/plugin"
+	"github.com/udzura/packer-fork-e59f09e/builder/vmware/iso"
+	"github.com/udzura/packer-fork-e59f09e/packer/plugin"
 )
 
 func main() {
